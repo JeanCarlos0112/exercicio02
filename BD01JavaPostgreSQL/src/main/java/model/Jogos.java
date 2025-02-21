@@ -54,6 +54,6 @@ public class Jogos{
 
 	@Override
 	public String toString() {
-		return "Usuario [codigo=" + codigo + ", nome=" + nome + ", empresa=" + empresa + ", quantidade=" + quantidade + "]";
+		return "Jogo [codigo=" + codigo + ", nome=" + nome + ", empresa=" + empresa + ", quantidade=" + quantidade + "]";
 	}	
 }
