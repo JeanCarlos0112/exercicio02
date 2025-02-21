@@ -1,8 +1,6 @@
 package dao;
 
 import java.sql.*;
-import java.security.*;
-import java.math.*;
 
 public class DAO {
     protected Connection conexao;
